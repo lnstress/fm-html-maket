@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+}
+
+#main-nav{
+    background-color: bisque;
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    font-size: 1.8em;
+}
+
+.nav-link{
+    color: red
+    font-weight: bold;
+}
